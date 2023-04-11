@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410034 |
+| Nama Lengkap | Bayu Samudra |
 | Kelas | TI-4A |
